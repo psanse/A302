@@ -1,4 +1,4 @@
-//centroide.c: implementación de los servicios de puntos 2D
+//centroide.c: implementaciÃ³n de los servicios de puntos 2D
 
 #include "../include/centroide.h"
 
@@ -17,6 +17,8 @@ struct punto_t centroid(struct punto_t * pl, size_t tam)
 	pres.y /= tam;
 	//////////////////////
 
+	//HOLA A TODOS ESTO ES UNA PRUEBA GITHUB
+	
 	return pres;
 }
 
